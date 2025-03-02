@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  padding: 25px;
+  background-color: bisque;
+}
+
+h1 {
+  color: whitesmoke;
+  background-color: rgba(88, 88, 88, 0.582);
+  font-family: sans-serif;
+}
+button {
+  padding: 5px;
+  margin: 10px;
+}
